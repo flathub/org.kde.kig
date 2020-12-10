@@ -19,8 +19,8 @@
             "sources": [
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/20.08.3/src/kig-20.08.3.tar.xz",
-                    "sha256": "1071a2b93e39aba38509ff1759f4c818e54b43819fd44e323cf7d03d5dfb71b7" 
+                    "url": "https://download.kde.org/stable/release-service/20.12.0/src/kig-20.12.0.tar.xz",
+                    "sha256": "16f09ee6fde0865ad2fb87528eae8d8ec4ab7e69a35ab43ec25fa91f0e200626" 
                 },
                 {
                     "type": "patch",
