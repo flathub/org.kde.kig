@@ -19,8 +19,8 @@
             "sources": [
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/20.12.3/src/kig-20.12.3.tar.xz",
-                    "sha256": "ce3261eb10e052fa10fcb3742d6a1820006bfa100f5aaae09f367acac3019ed9" 
+                    "url": "https://download.kde.org/stable/release-service/21.04.0/src/kig-21.04.0.tar.xz",
+                    "sha256": "178ecb364e248f4f7ed39dcb93dcd6ce4cee0c5628f5e49d6e05383afc3d9734" 
                 }                 
             ]
         }
