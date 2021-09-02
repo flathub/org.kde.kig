@@ -19,8 +19,8 @@
             "sources": [
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.08.0/src/kig-21.08.0.tar.xz",
-                    "sha256": "495129efbbd53e1d54c8562398f5d50d658474bcf05388060902957d59e85cd4" 
+                    "url": "https://download.kde.org/stable/release-service/21.08.1/src/kig-21.08.1.tar.xz",
+                    "sha256": "da50ff5b01b049d8988e260a8887b89d50826ac8622f7470abcadd69eb01773f" 
                 }                 
             ]
         }
