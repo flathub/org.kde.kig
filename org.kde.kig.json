@@ -20,7 +20,13 @@
                 { 
                     "type": "archive", 
                     "url": "https://download.kde.org/stable/release-service/21.12.3/src/kig-21.12.3.tar.xz",
-                    "sha256": "b6a9ec8981c6983df2295ad0a8a53732928a8bb40c6c92305030392d5bf88066"
+                    "sha256": "b6a9ec8981c6983df2295ad0a8a53732928a8bb40c6c92305030392d5bf88066",
+                    "x-checker-data": {
+                        "type": "anitya",
+                        "project-id": 8763,
+                        "stable-only": true,
+                        "url-template": "https://download.kde.org/stable/release-service/$version/src/kig-$version.tar.xz"
+                    }
                 }                 
             ]
         }
