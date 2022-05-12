@@ -6,28 +6,27 @@
     "command": "kig",
     "rename-icon": "kig",
     "finish-args": [
-        "--share=ipc", 
-        "--socket=x11", 
+        "--share=ipc",
+        "--socket=x11",
         "--socket=wayland",
         "--device=dri"
     ],
-
     "modules": [
         {
             "name": "kig",
             "buildsystem": "cmake-ninja",
             "sources": [
-                { 
-                    "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/22.04.0/src/kig-22.04.0.tar.xz",
-                    "sha256": "6dd9e280e3f0bca4c900f9fd8ef2e138eb8f1b021adf4ffe4e29804adddc7965",
+                {
+                    "type": "archive",
+                    "url": "https://download.kde.org/stable/release-service/22.04.1/src/kig-22.04.1.tar.xz",
+                    "sha256": "850c826c9823e3abaff4504c03874755565e2d6732982b4bdffcccedd841e2e3",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
                         "stable-only": true,
                         "url-template": "https://download.kde.org/stable/release-service/$version/src/kig-$version.tar.xz"
                     }
-                }                 
+                }
             ]
         }
     ]
