@@ -18,8 +18,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.08.5/src/kig-23.08.5.tar.xz",
-                    "sha256": "af60bd4d9440dd404ebd2be0d6799a8e571307b16034ca5c790a1c6b0b2d705e",
+                    "url": "https://download.kde.org/stable/release-service/24.08.0/src/kig-24.08.0.tar.xz",
+                    "sha256": "d770ca0d6cd511d1659dd2d6d40048110080a7179e4085aa00aed6dd8bdde079",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -27,9 +27,6 @@
                         "url-template": "https://download.kde.org/stable/release-service/$version/src/kig-$version.tar.xz"
                     }
                 }
-            ],
-            "post-install": [
-                "appstream-util modify ${FLATPAK_DEST}/share/metainfo/${FLATPAK_ID}.appdata.xml project_license GPL-2.0-or-later"
             ]
         }
     ]
