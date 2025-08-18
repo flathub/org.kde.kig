@@ -1,7 +1,7 @@
 {
     "id": "org.kde.kig",
     "runtime": "org.kde.Platform",
-    "runtime-version": "5.15-24.08",
+    "runtime-version": "6.9",
     "sdk": "org.kde.Sdk",
     "command": "kig",
     "rename-icon": "kig",
