@@ -7,7 +7,7 @@
     "rename-icon": "kig",
     "finish-args": [
         "--share=ipc",
-        "--socket=x11",
+        "--socket=x11-fallback",
         "--socket=wayland",
         "--device=dri"
     ],
