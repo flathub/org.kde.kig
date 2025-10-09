@@ -18,8 +18,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.08.1/src/kig-25.08.1.tar.xz",
-                    "sha256": "f25a61a481b89a5a57dee616bc1bb35049c9ac2673b2480b4723f0e0c7c15f7f",
+                    "url": "https://download.kde.org/stable/release-service/25.08.2/src/kig-25.08.2.tar.xz",
+                    "sha256": "60d38040156f3b0126388d9405e80d46b52efc4fb895432e4e61879d0bb3f9f3",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
