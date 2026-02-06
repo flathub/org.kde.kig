@@ -11,6 +11,10 @@
         "--socket=wayland",
         "--socket=fallback-x11"
     ],
+     "cleanup": [
+        "/share/doc",
+        "/share/man"
+    ],
     "modules": [
         {
             "name": "kig",
